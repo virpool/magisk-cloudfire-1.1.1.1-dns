@@ -1,7 +1,7 @@
-id=magisk-gogle-dns
-name=Magisk Google DNS
-version=v2.1.1
+id=magisk-cloudflare-1.1.1.1-dns
+name=Magisk Cloudflare 1.1.1.1 DNS
+version=v1.0.0
 versionCode=5
 author=tfae & teohhanhui
-description=Use Google's DNS servers (8.8.8.8) instead of the provided by the ISP or Access Point
+description=Use Cloudflare's DNS servers (1.1.1.1) instead of the provided by the ISP or Access Point
 minMagisk=1500
